@@ -5,4 +5,5 @@
 ### Basic Binary Search
 ### Sum of Digits of any number
 ## Intermediate
+###  Color Detection using K Means Clustering
 ## Advanced
