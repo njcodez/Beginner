@@ -40,8 +40,9 @@ def filltxt():
 
 
 def arrow():
-    pencil.color("red")
+    pencil.up()
     pencil.goto(0, 100)
+    pencil.down()
     pencil.color("black")
     pencil.shape("arrow")
     pencil.up()
