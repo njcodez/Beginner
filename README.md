@@ -4,6 +4,8 @@
 ### Textual Assistant
 ### Basic Binary Search
 ### Sum of Digits of any number
+### Speech to Text
+### Heart with turtle module
 ## Intermediate
 ###  Color Detection using K Means Clustering
 ###  Sarcasm Detection using NLP
