@@ -25,7 +25,7 @@ Navigate to the directory where you saved the script.
 Run the script by executing the following command:
 
 ## Copy code
-python ppt_to_pdf_converter.py
+python ppt2pdf.py
 Follow the On-Screen Instructions:
 
 You will be prompted to enter the location of the folder containing your PPTX files.
